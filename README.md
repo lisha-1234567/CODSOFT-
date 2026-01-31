@@ -1,8 +1,6 @@
 # CODSOFT-
-Codsoft internship tasks
+CODSOFT internship tasks
 
-
-CODSOFT Internship Tasks
 
 This repository contains all the tasks completed as part of the CodSoft Python Tech Internship.
 All projects are developed using Python and follow the internship guidelines.
